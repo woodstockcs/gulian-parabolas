@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+<table>
+  <tr>
+   <td>
+      <a href="http://alpha.editor.p5js.org/full/HyhQqqnUM">1</a>
+    </td>
+   <td>
+      <a href="http://alpha.editor.p5js.org/full/H1lannDs8M">2</a>
+    </td>
+   <td>
+      <a href="http://alpha.editor.p5js.org/full/B1qxi9hIz">3</a>
+    </td>
+   <td>
+      <a href="http://alpha.editor.p5js.org/full/BJgKs9n8f">4</a>
+    </td>
+   <td>
+      <a href="http://alpha.editor.p5js.org/full/H1o6sc2Lz">5</a>
+    </td>
+  </tr>
+  <tr>
+   <td>
+      <a href="http://alpha.editor.p5js.org/full/BJaG2chUM">6</a>
+    </td>
+   <td>
+      <a href="http://alpha.editor.p5js.org/full/SyqDpc38M">7</a>
+    </td>
+   <td>
+      <a href="http://alpha.editor.p5js.org/full/HJXRT93Uf">8</a>
+    </td>
+   <td>
+      <a href="http://alpha.editor.p5js.org/full/SJyoC5n8M">9</a>
+    </td>
+   <td>
+      <a href="http://alpha.editor.p5js.org/full/HyUIkj2Lf">10</a>
+    </td>
+  </tr>
+  <tr>
+   <td>
+      <a href="http://alpha.editor.p5js.org/full/SJopKXkPM">11</a>
+    </td>
+    <td>
+      <a href="http://alpha.editor.p5js.org/full/B1Z80_RIf">12</a>       
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/woodstockcs/gulian-parabolas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<em>a collaborative project between students in Ms. Gulian's Algebra 2 class and Mr. Smith's Computer Programming H Block class</em>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/woodstockcs/gulian-parabolas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
