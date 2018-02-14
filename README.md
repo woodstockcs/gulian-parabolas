@@ -37,7 +37,7 @@
 
 <br>
 <br>
-<em>a collaborative project between students in Ms. Gulian's Algebra 2 class and Mr. Smith's Computer Programming H Block class</em>
+<em>a collaborative project between students in Ms. Gulian's Algebra 2 class and Mr. Smith's Computer Programming classes</em>
 <br>
 <br>
 
